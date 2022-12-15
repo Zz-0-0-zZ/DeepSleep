@@ -24,15 +24,15 @@ SNN models are built on [**BrainCog**](http://www.brain-cog.network/docs/index.h
 
 Attack methods:
 
-FSGM [**Paper**](https://arxiv.org/pdf/1412.6572.pdf)
+FSGM (Goodfellow I. J. et al. 2014) [**Paper**](https://arxiv.org/pdf/1412.6572.pdf)
 
-PGD [**Paper**](https://arxiv.org/pdf/1706.06083.pdf)
+PGD (Madry A. et al. 2017) [**Paper**](https://arxiv.org/pdf/1706.06083.pdf)
 
-BIM [**Paper**](https://arxiv.org/pdf/1607.02533.pdf)
+BIM (Kurakin A. et al. 2018) [**Paper**](https://arxiv.org/pdf/1607.02533.pdf)
 
-C&W [**Paper**](https://arxiv.org/pdf/1608.04644.pdf)
+C&W (Carlini N. et al. 2017) [**Paper**](https://arxiv.org/pdf/1608.04644.pdf)
 
-AutoAttack [**Paper**](http://proceedings.mlr.press/v119/croce20b/croce20b.pdf)
+AutoAttack (Croce F. et al. 2020) [**Paper**](http://proceedings.mlr.press/v119/croce20b/croce20b.pdf)
 
 ## Running main.py
  
