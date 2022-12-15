@@ -1,6 +1,6 @@
 # DeepSleep
 
-DeepSleep is a biologically-inspired SNN-based adversarial defense method. [**PAPER**](https://github.com/Zz-0-0-zZ/DeepSleep/blob/main/DeepSleep.pdf)
+DeepSleep is a biologically-inspired SNN-based adversarial defense method. [**PAPER**](https://github.com/Zz-0-0-zZ/DeepSleep/blob/main/paper_DeepSleep.pdf)
 
 Experiments run with dataset [**MNIST**](http://yann.lecun.com/exdb/mnist/)
 
